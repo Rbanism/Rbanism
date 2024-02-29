@@ -1,28 +1,98 @@
 ---
-title: "Rbanism: Empowering the urbanism research community to use research software effectively and with confidence"
-
 listing:
-- id: events
-  contents: events
-  sort: "date desc"
-  categories: false
-  sort-ui: [title, date, categories]
-  filter-ui: [title, date, categories]
-  fields: [title, subtitle, author, description, date, image, categories]
+  - id: actions
+    contents: listings/index/actions
+    fields: [title, image]
+    sort: "date asc"
+    type: grid
+    max-items: 3
+    image-height: 128px
+    grid-columns: 3
+    grid-item-border: false
+    grid-item-align: center
+
+  - id: benefits
+    contents: listings/index/benefits
+    fields: [title, description, image]
+    sort: "date asc"
+    type: grid
+    max-items: 3
+    image-height: 128px
+    grid-columns: 3
+    grid-item-border: false
+    max-description-length: 99999
+
+  - id: events
+    contents: listings/events/posts
+    fields: [title, subtitle, description, image]
+    sort: "date desc"
+    type: grid
+    max-items: 3
+    image-height: 100%
+    grid-item-border: false
+
+  - id: partners
+    contents: listings/index/partners
+    fields: [image]
+    sort: "date asc"
+    type: grid
+    max-items: 3
+    image-height: 128px
+    grid-columns: 3
+    grid-item-border: false
+    grid-item-align: center
 ---
 
-![](img/rbanism-221019-03.png){width=100%}
+::: {layout-ncol=2}
+{{< include resources/text/index/header.qmd >}}
 
-The Rbanism community aims to empower urbanism researchers, students, educators and practitioners to use open-source software and related open-science practices effectively and with confidence. It raises awareness, stimulates engagement and builds capacity by demonstrating the benefits of reproducibility, automation and scalability for urbanism research, education and practice. The community is initiated by a group of R users in the Department of Urbanism at TU Delft, and it has the ambition to scale up to a larger national and international Rbanism community. 
+![](assets/imgs/index/header.jpg)
+:::
+
+{{< include utils/index/_index_header_utils.qmd >}}
 
 
-## Join the communtiy
+<!-- NOTE: Do not change the title of this this header! -->
+## actions
+::: {.column-screen}
+:::
 
-[Sign up](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIexqwrrc4qZdKgRlneGeIv1NUNUY2UDlXWVdWVzBQWU8xQ0pUTEFGQVBaTSQlQCN0PWcu) to join the Rbanism community and stay up to date with our events, activities and resources.
+::: {#actions}
+:::
 
-Please note that we expect all members of the community to follow our [Code of Conduct](code-of-conduct.md).
 
-## Events
+## we want to build digital competence and skills for:
 
-:::{#events}
+{{< include utils/index/_index_benefit_utils.qmd >}}
+
+::: {#benefits}
+:::
+
+<!-- <div class="benefits-button"><a class="empty-button" id="benefits">DISCOVER MORE</a></div> -->
+
+
+## Community Gatherings
+
+::: {.column-screen}
+:::
+
+{{< include resources/text/index/events.qmd >}}
+
+::: {#events}
+:::
+
+
+## Join the Rbanism Community!
+
+{{< include resources/text/index/registration.qmd >}}
+
+
+#### Partners
+
+::: {.column-screen}
+:::
+
+{{< include resources/text/index/partners.qmd >}}
+
+::: {#partners}
 :::
