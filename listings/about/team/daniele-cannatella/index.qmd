@@ -1,6 +1,6 @@
 ---
 title: Daniele Cannatella
-subtitle: "Assistant Professor, TU Delft"
+subtitle: "Assistant Professor Urban Data for Design, TU Delft"
 description: Daniele is a core member of the Rbanism Community.
 image: ../../../../assets/imgs/about/team/daniele.jpg
 ---
