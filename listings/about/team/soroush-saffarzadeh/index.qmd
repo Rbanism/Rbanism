@@ -1,8 +1,6 @@
 ---
 title: Soroush Saffarzadeh
-subtitle: "Community Assistant, TU Delft"
-description: Soroush is an MSc student in Urbanism and he's interested in spatial analysis
-with quantitative methods of programming and GIS tools. 
-Also, trying to combine these with qualitative aspects of planning & design.
+subtitle: Community Assistant, TU Delft
+description: Soroush is an MSc student in Urbanism and he's interested in spatial analysis with quantitative methods of programming and GIS tools. Also, he's trying to combine these with qualitative aspects of planning & design.
 image: ../../../../assets/imgs/about/team/soroush.jpg
 ---
