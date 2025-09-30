@@ -1,7 +1,6 @@
 ---
 title: Daniele Cannatella
 subtitle: "Assistant Professor, TU Delft"
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris suscipit tincidunt mattis. Nulla vel eros rutrum, aliquet orci sit amet, mattis nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis gravida, leo ac placerat hendrerit, ante elit mollis lorem.
-date: 3/1/1970
+description: Daniele is a core member of the Rbanism Community.
 image: ../../../../assets/imgs/about/team/daniele.jpg
 ---

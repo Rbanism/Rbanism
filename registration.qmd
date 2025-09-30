@@ -1,3 +1,6 @@
 ---
 title: JOIN THE COMMUNITY
 ---
+[Sign up to join the Rbanism community](https://forms.office.com/e/25Va69R1h2) and stay up to date with our events, activities and resources.
+
+Please note that we expect all members of the community to follow our [Code of Conduct](resources/coc.md).

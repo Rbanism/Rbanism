@@ -1,3 +1,5 @@
 ---
 title: "Get in touch"
 ---
+
+We are always happy to hear from you! Whether you have questions, suggestions, or just want to say hello, feel free to reach out to us at [rbanism@tudelft.nl]{.underline}.
