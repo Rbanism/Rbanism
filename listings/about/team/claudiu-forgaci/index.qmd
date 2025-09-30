@@ -1,7 +1,6 @@
 ---
 title: Claudiu Forgaci
-subtitle: Assistant Professor, TU Delft
-description: I am an architect and urbanist, currently engaged in understanding how spatial urbanisation patterns, at multiple scales, are related to urban resilience. In my research and practice, I combine urban design and planning, landscape architecture and architecture in a multi-scalar and social-ecological approach to urbanism.
-date: 1/1/1970
+subtitle: Assistant Professor of Urban Design and Analytics, TU Delft
+description: Claudiu is an urbanist with keen interest in urban morphometrics and [[urban resilience]{.underline}](https://www.4tu.nl/resilience/about-us/our-people/researchers-people/Claudiu-Forgaci/). He develops design-driven methods, [[open datasets]{.underline}](https://data.4tu.nl/authors/aec0501c-ae81-40a6-8e02-e32c8c838203), and [[software]{.underline}](https://github.com/cforgaci) that facilitate comparative urban analysis. He also advocates for open science in research and teaching, and help build communities that support its practice.
 image: ../../../../assets/imgs/about/team/claudiu.jpg
 ---

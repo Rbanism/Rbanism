@@ -8,7 +8,7 @@ listing:
   id: team
   contents: listings/about/team
   fields: [title, subtitle, description, image]
-  sort: "date asc"
+  sort: "title asc"
   type: grid
   max-items: 4
   image-height: 128px
