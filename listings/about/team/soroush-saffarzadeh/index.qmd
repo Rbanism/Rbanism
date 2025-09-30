@@ -1,0 +1,8 @@
+---
+title: Soroush Saffarzadeh
+subtitle: "Student Assistant, TU Delft"
+description: Interested in spatial analysis with quantitative methods of programming and GIS tools. 
+Also, trying to combine these with qualitative aspects of planning & design.
+date: 1/6/1970
+image: ../../../../assets/imgs/about/team/soroush.jpg
+---
