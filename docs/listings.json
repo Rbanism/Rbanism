@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/listings/blog/posts/240815-libraries-and-packages/index.html",
-      "/listings/blog/posts/240402-r-vs-qgis/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/listings/index/actions/improving_awareness/index.html",
@@ -28,16 +21,6 @@
     ]
   },
   {
-    "listing": "/events.html",
-    "items": [
-      "/listings/events/posts/230522_scalegis-workshop/index.html",
-      "/listings/events/posts/230403_repro-wrap-up/index.html",
-      "/listings/events/posts/230403_repro-challenge/index.html",
-      "/listings/events/posts/230403_repro-hack/index.html",
-      "/listings/events/posts/230403_repro-r-workshop/index.html"
-    ]
-  },
-  {
     "listing": "/about.html",
     "items": [
       "/listings/about/team/claudiu-forgaci/index.html",
@@ -45,6 +28,23 @@
       "/listings/about/team/daniele-cannatella/index.html",
       "/listings/about/team/dimitris-mantas/index.html",
       "/listings/about/team/soroush-saffarzadeh/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/listings/blog/posts/240815-libraries-and-packages/index.html",
+      "/listings/blog/posts/240402-r-vs-qgis/index.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/listings/events/posts/230522_scalegis-workshop/index.html",
+      "/listings/events/posts/230403_repro-wrap-up/index.html",
+      "/listings/events/posts/230403_repro-challenge/index.html",
+      "/listings/events/posts/230403_repro-hack/index.html",
+      "/listings/events/posts/230403_repro-r-workshop/index.html"
     ]
   }
 ]
