@@ -1,0 +1,164 @@
+---
+title: Resources
+subtitle: This is a curated and evolving list of resources on the topics of reproducibility, automation and scalability for urbanism researchers. The list includes both resources created during the Rbanism project and other resources that are relevant for urbanism research. Although R-based resources are predominant, other (e.g., Python-based) approaches are also included.
+title-block-style: default
+title-block-banner: assets/imgs/resources/header.jpg
+format:
+  html:
+    toc: true
+    toc-location: left
+---
+
+# Introductory Resources
+
+## Where to start
+
+Here you can find several links to various introductory resources to R, data and spatial data analysis to help you gain a better understanding before starting or advancing your work in geospatial data analysis.
+
+The introductory materials are categorized based on the use, field of knowledge and practicalities to meet your needs through the process of learning, exercising and leveraging your work.
+
+## Intro to R
+
+-   [r4ds](https://r4ds.had.co.nz/)
+
+-   [intro2r](https://intro2r.com/)
+
+## Spatial analysis with R
+
+Once you learn the basics of working with R, then you can see how it's applied in spatial analysis. Check the online booklet of R-Spatial and index in the following links.
+
+-   [r-spatial book](https://r-spatial.org/book/)
+
+-   [index](https://rspatial.org/index.html)
+
+## Markdown
+
+The previous online booklet was basically made in the R environment. You can write a website, booklet, report, or other document as a Markdown file using the R ecosystem. Learn more about the markdown via the link below.
+
+-   [rmarkdown](https://datacarpentry.org/r-socialsci/06-rmarkdown.html)
+
+## Platforms & Communities
+
+### Intro to GitHub
+
+You'd need a platform to deploy your online work, along with the scripts, workflows, and README files you've developed or used, in one place. You can use GitHub as a repository to exchange ideas, projects and much more.
+
+-   [github-learning](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+
+### Visualizaitons
+
+-   [r-graph-gallery](https://r-graph-gallery.com/)
+
+### Troubleshooting
+
+-   [stackoverflow](https://stackoverflow.com/)
+
+## R Packages
+
+In this section, the R packages that are commonly used or that we find useful in geospatial analysis are listed and categorized based on their general purpose and usage.
+
+### Plots
+
+Some examples and R packages as tools to plot your data in R.
+
+-   [ggplot2](https://ggplot2-book.org/)
+
+## Cheatsheets
+
+A compilation of codes and commonly used functions and expressions within R syntax in geospatial analysis is provided as cheatsheets.
+
+-   [Cheatsheets](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html)
+
+## Troubleshooting
+
+You'll definitely face errors and problems when working with R multiple times. You can look up your problem on Stackoverflow and hopefully can troubleshoot and solve your problem.
+
+-   [stackoverflow](https://stackoverflow.com/)
+
+## Rbanism Workshops
+
+### Reproducibility
+
+### Scalability
+
+# Additional Resources
+
+## Reproducibility
+
+### Reproducible Research with R for Urbanists workshop
+
+##### Introduction
+
+-   [slides](https://rbanism.github.io/repro-r-workshop/documents/01-intro-slides.html)
+
+##### Organisation
+
+-   [slides](https://rbanism.github.io/repro-r-workshop/documents/02-organization-slides.html)
+
+##### Automation
+
+-   [lesson](https://rbanism.github.io/repro-r-workshop/documents/03-automation.html)
+-   [script](https://github.com/Rbanism/repro-r-workshop-livecode/blob/main/R/my-first-R-script.R)
+
+##### Documentation
+
+-   [slides](https://rbanism.github.io/repro-r-workshop/documents/04-literate-programming-slides.html)
+
+##### Dissemination
+
+-   [slides](https://rbanism.github.io/repro-r-workshop/documents/05-publishing-slides.html)
+
+##### Wrap-up
+
+-   [slides](https://rbanism.github.io/repro-r-workshop/documents/06-wrap-up.html)
+
+### General resources on reproducibility
+
+-   [The Turing Way handbook to reproducible, ethical and collaborative data science - Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+-   [R Markdown document](https://github.com/Rbanism/repro-r-workshop-livecode/blob/main/documents/my-awesome-report.Rmd)
+
+### For R users
+
+-   [R Workflow](http://hbiostat.org/rflow)
+
+-   [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/)
+
+-   [The `holepunch` package](https://github.com/karthik/holepunch)
+
+-   [`rrtools`: Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools)
+
+-   ::: {.callout-note appearance="minimal"}
+    ## The book provides an in-depth overview of the tools, practices and techniques for reproducible analytical pipelines (RAPs). The book does not teach R programming basics, nor does it cover statistics and visualisation. The language is accessible and non-academic, with multiple references to the pains encountered by data science practitioners due to the lack of reproducibility.
+
+    [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) - This is an excellent book written by [Bruno Rodrigues](https://twitter.com/brodriguesco), a practicing data scientist who is an advocate of software engineering in the field of data science. The book provides an in-depth overview of the tools, practices and techniques for reproducible analytical pipelines (RAPs). The book does not teach R programming basics, nor does it cover statistics and visualisation. The language is accessible and non-academic, with multiple references to the pains encountered by data science practitioners due to the lack of reproducibility.
+    :::
+
+-   [Getting started with R Markdown (episode part of the R for Social Scientists Data Carpentry curriculum)](https://datacarpentry.org/r-socialsci/05-rmarkdown/index.html)
+
+### From urbanism research
+
+-   [GIS and Computational Notebooks](https://gistbok.ucgis.org/bok-topics/gis-and-computational-notebooks)
+-   [Evolution of Urban Patterns: Urban Morphology as an Open Reproducible Data Science](https://onlinelibrary.wiley.com/doi/10.1111/gean.12302)
+-   [Reproducible Graduate Theses in GIScience](https://osf.io/j97zp/)
+
+## Scalability
+
+### Scalable GIS workshop
+
+-   To the [preparations before the workshop](https://github.com/RS-DAT/2023-05-22-scalable-GIS/blob/main/setup.md)
+
+-   Workshop program: [link](https://rbanism.github.io/scalegis-workshop/)
+
+-   Introduction: [slides](https://github.com/Rbanism/scalegis-workshop/blob/main/docs/scalegis-slides.pdf)
+
+-   Introduction to Big Geodata Infrastructure, by [Serkan Girgin](https://people.utwente.nl/s.girgin): [slides](https://doi.org/10.5281/zenodo.7957147)
+
+-   SURF infrastructure, by [Natalie Danezi](https://www.surf.nl/data-van-buitenaardse-proporties): [slides](https://github.com/Rbanism/scalegis-workshop/blob/main/docs/surf-slides.pdf)
+
+-   Tutorial 1 - Scaling up the analysis of urban form, by [Lukas Beuster](https://3d.bk.tudelft.nl/lbeuster/): [repository](https://github.com/lukasbeuster/3dgeo_scalable_gis)
+
+-   Tutorial 2 - Scaled-up network analysis using the RS DAT framework, by [Francesco Nattino](https://www.esciencecenter.nl/team/dr-francesco-nattino/) & [Ou Ku](https://www.esciencecenter.nl/team/ou-ku-msc/): [repository](https://github.com/RS-DAT/2023-05-22-scalable-GIS)
+
+-   Scale-up exercise in groups: [assignments](https://github.com/Rbanism/scalegis-workshop/blob/main/docs/assignments.pdf)
+
+-   Wrap-up: [slides](https://github.com/Rbanism/scalegis-workshop/blob/main/docs/scalegis-slides.pdf)
