@@ -1,0 +1,140 @@
+---
+title: ""
+format:
+  html:
+    page-layout: full
+    embed-resources: true
+    css: assets/30daymapchallenge_files/style.css
+    toc: false
+    anchor-sections: false
+---
+
+```{=html}
+<div class="pf-hero">
+  <a href="https://rbanism.org" target="_blank" rel="noopener">
+    <img src="assets/30daymapchallenge_files/30dmc2026_poster.jpg" alt="#30DayMapChallenge, 3rd Rbanism Edition poster" class="pf-poster-img" />
+  </a>
+</div>
+```
+
+::: {.pf-section}
+
+```{=html}
+<!-- TODO: replace href with the MS Form link -->
+<div class="pf-cta pf-cta-top">
+  <p class="pf-cta-text">Join the third Rbanism edition of the #30DayMapChallenge this November.</p>
+  <a class="pf-cta-button" href="https://forms.cloud.microsoft/e/npqvuyz1Yq?origin=lprLink" target="_blank" rel="noopener">Register now</a>
+</div>
+```
+
+## The #30DayMapChallenge
+
+This November, join the **[Rbanism community](https://rbanism.org/)** for the third edition of the #30DayMapChallenge!  
+
+The **[#30DayMapChallenge](https://30daymapchallenge.com/)** was started in 2019 by Topi Tjukanov, a Finnish cartographer. It's a daily cartography and data visualization challenge aimed at the spatial community, where every day throughout November a different theme is set and participants create a map or visualization based on that theme and share it on social media using the hashtag. 
+
+The Rbanism twist: maps made entirely in R, published on our repo on GitHub (see previous editions [here](https://github.com/Rbanism/30DayMapChallenge2024/) and [here](https://github.com/Rbanism/30DayMapChallenge2025/)), alongside the code. We share the topics and work on the maps together. 
+
+It's a fun, low-pressure way to sharpen your spatial data and cartography skills, and your coding skills, no matter your experience level.
+
+## Why join?
+
+::: {.pf-cards}
+
+::: {.pf-card}
+#### Build your portfolio
+One or two polished maps, made from real data and your own code, that you can show off on GitHub, LinkedIn, or in your next job/PhD application.
+:::
+
+::: {.pf-card}
+#### Join the community
+See how map lovers tackle the same themes in totally different ways, and pick up tricks you'd never find in a tutorial.
+:::
+
+::: {.pf-card}
+#### Practice on real problems
+Work with actual spatial datasets, the same kind you'll use in thesis work or future urban/climate projects.
+:::
+
+::: {.pf-card}
+#### Level up your R skills
+{sf}, {ggplot2}, {tmap}, and whatever else you want to try &mdash; one focused project, zero pressure to be an expert.
+:::
+
+::: {.pf-card}
+#### You're not doing it alone
+We kick off together, share the topics and learning materials, and celebrate everyone's maps on Rbanism's socials.
+:::
+
+::: {.pf-card}
+#### Code like a pro
+Build habits &mdash; clean, documented, shareable code &mdash; that make your work reproducible and easy for others to build on.
+:::
+
+::: {.pf-card}
+#### Low commitment, real payoff
+Pick a day or two that speaks to you and make something you're proud of. No need to do all 30.
+:::
+
+:::
+
+## How it works
+
+- We meet on the 23rd of October to kick off the challenge (Faculty of Architecture, TU Delft, Berlagezaal 1,  and MsTeams) 
+- We share the topics, learning materials and examples 
+- We upload the maps and the code on the day of the actual topic (or before!)
+- We share the maps on our social media (Instagram and Bluesky) with the hashtag #30DayMapChallenge. You can do it on yours too, and tag it so the Rbanism community can - find and celebrate your work 
+- When: Throughout November 
+
+Questions or want to team up? Contact rbanism@tudelft.nl 
+
+## Challenge Kick-Off program (tentative)
+Berlagezaal 1 / Ms Teams (link will follow)
+
+| Time | Activity |
+|---|---|
+|13:00 | lunch 
+|13:30 | lecture Mark Pedgham
+|14:30 | kick off #30DayMapChallenge
+|15:30 | break
+|16:00 | Urbex book club
+
+```{=html}
+<!-- TODO: replace href with the MS Form link -->
+<div class="pf-cta">
+  <p class="pf-cta-text">Ready to map with us? Register for the challenge and the kick-off.</p>
+  <a class="pf-cta-button" href="https://forms.cloud.microsoft/e/npqvuyz1Yq?origin=lprLink" target="_blank" rel="noopener">Register now</a>
+</div>
+```
+
+:::
+
+::: {.pf-section}
+## Daily themes
+
+2026 Themes to be announced soon ([here](https://30daymapchallenge.com/))!  
+
+*Placeholder calendar &mdash; fill in this year's actual prompts before
+publishing.*
+
+::: {.pf-calendar}
+| Day | Theme | Day | Theme | Day | Theme |
+|---|---|---|---|---|---|
+| 1 | Points | 11 | 3D | 21 | Raster |
+| 2 | Lines | 12 | Population | 22 | North |
+| 3 | Polygons | 13 | Choropleth | 23 | Treasure |
+| 4 | Hexagons | 14 | Map projections | 24 | Only circular shapes |
+| 5 | A journey | 15 | OpenStreetMap | 25 | Heatmap |
+| 6 | Raster | 16 | Choropleth (again) | 26 | Map with a new tool |
+| 7 | Vintage style | 17 | Collaborative map | 27 | Micromapping |
+| 8 | Data: HDX | 18 | Data: NASA | 28 | Ocean/water |
+| 9 | AI only | 19 | Islands | 29 | Border |
+| 10 | Pen & paper | 20 | Movement | 30 | The final map |
+:::
+:::
+
+```{=html}
+<div class="pf-footer">
+  <p>Join. Code. Map. Share. &mdash; <a href="https://rbanism.org" target="_blank" rel="noopener">rbanism.org</a></p>
+</div>
+```

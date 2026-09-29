@@ -8,6 +8,7 @@
       "/listings/index/benefits/reproducibility/index.html",
       "/listings/index/benefits/automation/index.html",
       "/listings/index/benefits/scalability/index.html",
+      "/listings/events/posts/261001_30DMC-2026/index.html",
       "/listings/events/posts/230522_scalegis-workshop/index.html",
       "/listings/events/posts/230403_repro-wrap-up/index.html",
       "/listings/events/posts/230403_repro-challenge/index.html",
@@ -40,6 +41,7 @@
   {
     "listing": "/events.html",
     "items": [
+      "/listings/events/posts/261001_30DMC-2026/index.html",
       "/listings/events/posts/230522_scalegis-workshop/index.html",
       "/listings/events/posts/230403_repro-wrap-up/index.html",
       "/listings/events/posts/230403_repro-challenge/index.html",
