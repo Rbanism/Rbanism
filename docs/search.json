@@ -130,7 +130,7 @@
     "href": "index.html#events",
     "title": "Rbanism  Community",
     "section": "Our latest events:",
-    "text": "Our latest events:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScalable GIS for Urbanists Workshop\n\n\nMay 22, 2023, 9:00 AM–5:00 PM, Blue Room, TU Delft Library\n\n\nExperience the infrastructure and workflows of large-scale GIS applications relevant for urbanism research.\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility Wrap-up Event\n\n\nApr. 10, 2023, 3:00-4:30 PM\n\n\nA celebratory closing to our first series of events.\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility Challenge\n\n\nOct. 26, 2022–Jan. 26, 2023\n\n\nFind out how reproducible your research is.\n\n\n\n\n\nNo matching items"
+    "text": "Our latest events:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScalable GIS for Urbanists Workshop\n\n\nMay 22, 2023, 9:00 AM–5:00 PM, Blue Room, TU Delft Library\n\n\nExperience the infrastructure and workflows of large-scale GIS applications relevant for urbanism research.\n\n\n\n\n\n\n\n\n\n\n\n\nScalable GIS for Urbanists Workshop\n\n\nMay 22, 2023, 9:00 AM–5:00 PM, Blue Room, TU Delft Library\n\n\nExperience the infrastructure and workflows of large-scale GIS applications relevant for urbanism research.\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility Wrap-up Event\n\n\nApr. 10, 2023, 3:00-4:30 PM\n\n\nA celebratory closing to our first series of events.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#blogs",
@@ -221,7 +221,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Scalable GIS for Urbanists Workshop\n\n\nMay 22, 2023, 9:00 AM–5:00 PM, Blue Room, TU Delft Library\n\n\n\nWorkshops\n\nScalability\n\n\n\nExperience the infrastructure and workflows of large-scale GIS applications relevant for urbanism research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility Wrap-up Event\n\n\nApr. 10, 2023, 3:00-4:30 PM\n\n\n\nGeneral\n\nReproducibility\n\n\n\nA celebratory closing to our first series of events.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility Challenge\n\n\nOct. 26, 2022–Jan. 26, 2023\n\n\n\nChallenges\n\nReproducibility\n\n\n\nFind out how reproducible your research is.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrbanism ReproHack\n\n\nOct. 14, 2022, 1:00–5:00 PM\n\n\n\nHackathons\n\nReproducibility\n\n\n\nAttempt to reproduce a published paper.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Research with R Workshop\n\n\nOct. 10, 2022, 9:00 AM–5:00 PM\n\n\n\nWorkshops\n\nReproducibility\n\n\n\nExperience the benefits, principles, and crafts of reproducible research.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Scalable GIS for Urbanists Workshop\n\n\nMay 22, 2023, 9:00 AM–5:00 PM, Blue Room, TU Delft Library\n\n\n\nWorkshops\n\nScalability\n\n\n\nExperience the infrastructure and workflows of large-scale GIS applications relevant for urbanism research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScalable GIS for Urbanists Workshop\n\n\nMay 22, 2023, 9:00 AM–5:00 PM, Blue Room, TU Delft Library\n\n\n\nWorkshops\n\nScalability\n\n\n\nExperience the infrastructure and workflows of large-scale GIS applications relevant for urbanism research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility Wrap-up Event\n\n\nApr. 10, 2023, 3:00-4:30 PM\n\n\n\nGeneral\n\nReproducibility\n\n\n\nA celebratory closing to our first series of events.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility Challenge\n\n\nOct. 26, 2022–Jan. 26, 2023\n\n\n\nChallenges\n\nReproducibility\n\n\n\nFind out how reproducible your research is.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUrbanism ReproHack\n\n\nOct. 14, 2022, 1:00–5:00 PM\n\n\n\nHackathons\n\nReproducibility\n\n\n\nAttempt to reproduce a published paper.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Research with R Workshop\n\n\nOct. 10, 2022, 9:00 AM–5:00 PM\n\n\n\nWorkshops\n\nReproducibility\n\n\n\nExperience the benefits, principles, and crafts of reproducible research.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "listings/blog/posts/240815-libraries-and-packages/index.html",
@@ -299,5 +299,47 @@
     "title": "Rbanism",
     "section": "",
     "text": "Sign up to join the Rbanism community and stay up to date with our events, activities and resources.\nPlease note that we expect all members of the community to follow our Code of Conduct."
+  },
+  {
+    "objectID": "listings/events/posts/261001_30DMC-2026/index.html",
+    "href": "listings/events/posts/261001_30DMC-2026/index.html",
+    "title": "Scalable GIS for Urbanists Workshop",
+    "section": "",
+    "text": "Scalable GIS for Urbanists aims to introduce the infrastructure and workflows of large-scale GIS applications relevant for urbanism research. After a presentation of Big Geodata Science and a discussion on how it relates to urbanism research, the workshop will showcase two large-scale GIS applications in a tutorial format, namely a demonstration of the Remote-Sensing Deployable Analysis environmenT (RS-DAT) and a tutorial on how to run a scaled-up analysis with the Netherlands-wide 3D BAG dataset. Overall, the focus will be on challenges specific to the field of urbanism that cannot be solved with current approaches involving GUI-based software and data loaded in memory. The input will be given by representatives of the Centre of Expertise in Big Geodata Science (Faculty ITC, University of Twente), Netherlands eScience Center, and the 3D Geoinformation group from Delft Univeristy of Technology. Based on the knowledge gained from the introduction and the showcased projects, participants will learn to assemble a scaled-up workflow starting from a given case of small-scale GIS analysis.\nParticipants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.\nScalable GIS for Urbanists is open to all researchers in the Netherlands from the field of urbanism and related fields, including urban design, spatial planning, landscape architecture, and urban studies. You don’t need to have any previous knowledge of the tools that will be presented at the workshop.\nThis workshop is organised by TU Delft, Faculty of Architecture and the Built Environment, Department of Urbanism, in collaboration with the TU Delft Library, and it is part of the Netherlands eScience Center fellowship project Rbanism, targeting digital competence in the urbanism research community.\n\n&gt; Links\n\nWorkshop program: link\nIntroduction: slides\nIntroduction to Big Geodata Insfrastricture, by Serkan Girgin: slides\nSURF infrastructure, by Natalie Danezi: slides\nTutorial 1 - Scaling up the analysis of urban form, by Lukas Beuster: repository\nTutorial 2 - Scaled-up network analysis using the RS DAT framework, by Francesco Nattino & Ou Ku: repository\nScale-up exercise in groups: assignments\nWrap-up: slides"
+  },
+  {
+    "objectID": "30DayMapChallenge2026.html#the-30daymapchallenge",
+    "href": "30DayMapChallenge2026.html#the-30daymapchallenge",
+    "title": "Rbanism",
+    "section": "The #30DayMapChallenge",
+    "text": "The #30DayMapChallenge\nThis November, join the Rbanism community for the third edition of the #30DayMapChallenge!\nThe #30DayMapChallenge was started in 2019 by Topi Tjukanov, a Finnish cartographer. It’s a daily cartography and data visualization challenge aimed at the spatial community, where every day throughout November a different theme is set and participants create a map or visualization based on that theme and share it on social media using the hashtag.\nThe Rbanism twist: maps made entirely in R, published on our repo on GitHub (see previous editions here and here), alongside the code. We share the topics and work on the maps together.\nIt’s a fun, low-pressure way to sharpen your spatial data and cartography skills, and your coding skills, no matter your experience level."
+  },
+  {
+    "objectID": "30DayMapChallenge2026.html#why-join",
+    "href": "30DayMapChallenge2026.html#why-join",
+    "title": "Rbanism",
+    "section": "Why join?",
+    "text": "Why join?\n\n\nBuild your portfolio\nOne or two polished maps, made from real data and your own code, that you can show off on GitHub, LinkedIn, or in your next job/PhD application.\n\n\nJoin the community\nSee how map lovers tackle the same themes in totally different ways, and pick up tricks you’d never find in a tutorial.\n\n\nPractice on real problems\nWork with actual spatial datasets, the same kind you’ll use in thesis work or future urban/climate projects.\n\n\nLevel up your R skills\n{sf}, {ggplot2}, {tmap}, and whatever else you want to try — one focused project, zero pressure to be an expert.\n\n\nYou’re not doing it alone\nWe kick off together, share the topics and learning materials, and celebrate everyone’s maps on Rbanism’s socials.\n\n\nCode like a pro\nBuild habits — clean, documented, shareable code — that make your work reproducible and easy for others to build on.\n\n\nLow commitment, real payoff\nPick a day or two that speaks to you and make something you’re proud of. No need to do all 30."
+  },
+  {
+    "objectID": "30DayMapChallenge2026.html#how-it-works",
+    "href": "30DayMapChallenge2026.html#how-it-works",
+    "title": "Rbanism",
+    "section": "How it works",
+    "text": "How it works\n\nWe meet on the 23rd of October to kick off the challenge (Faculty of Architecture, TU Delft, Berlagezaal 1, and MsTeams)\nWe share the topics, learning materials and examples\nWe upload the maps and the code on the day of the actual topic (or before!)\nWe share the maps on our social media (Instagram and Bluesky) with the hashtag #30DayMapChallenge. You can do it on yours too, and tag it so the Rbanism community can - find and celebrate your work\nWhen: Throughout November\n\nQuestions or want to team up? Contact rbanism@tudelft.nl"
+  },
+  {
+    "objectID": "30DayMapChallenge2026.html#challenge-kick-off-program-tentative",
+    "href": "30DayMapChallenge2026.html#challenge-kick-off-program-tentative",
+    "title": "Rbanism",
+    "section": "Challenge Kick-Off program (tentative)",
+    "text": "Challenge Kick-Off program (tentative)\nBerlagezaal 1 / Ms Teams (link will follow)\n\n\n\nTime\nActivity\n\n\n\n\n13:00\nlunch\n\n\n13:30\nlecture Mark Pedgham\n\n\n14:30\nkick off #30DayMapChallenge\n\n\n15:30\nbreak\n\n\n16:00\nUrbex book club\n\n\n\n\n\n  Ready to map with us? Register for the challenge and the kick-off.\n  Register now"
+  },
+  {
+    "objectID": "30DayMapChallenge2026.html#daily-themes",
+    "href": "30DayMapChallenge2026.html#daily-themes",
+    "title": "Rbanism",
+    "section": "Daily themes",
+    "text": "Daily themes\n2026 Themes to be announced soon (here)!\nPlaceholder calendar — fill in this year’s actual prompts before publishing.\n\n\n\n\nDay\nTheme\nDay\nTheme\nDay\nTheme\n\n\n\n\n1\nPoints\n11\n3D\n21\nRaster\n\n\n2\nLines\n12\nPopulation\n22\nNorth\n\n\n3\nPolygons\n13\nChoropleth\n23\nTreasure\n\n\n4\nHexagons\n14\nMap projections\n24\nOnly circular shapes\n\n\n5\nA journey\n15\nOpenStreetMap\n25\nHeatmap\n\n\n6\nRaster\n16\nChoropleth (again)\n26\nMap with a new tool\n\n\n7\nVintage style\n17\nCollaborative map\n27\nMicromapping\n\n\n8\nData: HDX\n18\nData: NASA\n28\nOcean/water\n\n\n9\nAI only\n19\nIslands\n29\nBorder\n\n\n10\nPen & paper\n20\nMovement\n30\nThe final map"
   }
 ]

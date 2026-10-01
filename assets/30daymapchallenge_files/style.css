@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Roboto+Condensed:wght@700;800;900&display=swap');
+
+:root {
+  --pf-grey: #e0e0e1;
+  --pf-gold: #D9B22C;
+  --pf-black: #303030;
+  --pf-heading-font: 'Helvetica Neue Condensed Black', 'HelveticaNeue-CondensedBlack', 'Roboto Condensed', 'Arial Narrow', sans-serif;
+}
+
+body {
+  background: var(--pf-grey);
+  color: var(--pf-black);
+  font-family: 'Archivo', sans-serif;
+  margin: 0;
+}
+
+#quarto-content,
+#quarto-content > main.content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.quarto-title-block, #title-block-header { display: none; }
+
+.pf-hero {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 2.5rem 0 2.5rem;
+}
+
+.pf-poster-img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.pf-section {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 2.5rem;
+}
+
+.pf-section h2 {
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  border-bottom: 4px solid var(--pf-gold);
+  padding-bottom: 0.3rem;
+  display: inline-block;
+}
+
+.pf-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.1rem;
+  margin: 1.2rem 0 0.5rem 0;
+}
+
+.pf-card {
+  background: #ffffff;
+  border: 1px solid #cfccc2;
+  border-top: 5px solid var(--pf-gold);
+  padding: 1.1rem 1.1rem 1.3rem 1.1rem;
+}
+
+.pf-card h4 {
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  margin: 0 0 0.5rem 0;
+  line-height: 1.15;
+}
+
+.pf-card p {
+  font-size: 0.88rem;
+  line-height: 1.45;
+  margin: 0;
+}
+
+.pf-section table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  background: transparent;
+  border: none;
+  --bs-table-bg: var(--pf-grey);
+  --bs-table-striped-bg: transparent;
+  --bs-table-hover-bg: transparent;
+  --bs-table-border-color: transparent;
+}
+
+.pf-section table > :not(caption) > * > *,
+.pf-section th,
+.pf-section td {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+}
+
+.pf-section thead,
+.pf-section tbody,
+.pf-section tr {
+  border: none !important;
+}
+
+.pf-section thead th {
+  border-bottom: 3px solid var(--pf-gold) !important;
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.pf-footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 2.5rem 3rem 2.5rem;
+  font-weight: 700;
+}
+
+.pf-footer a {
+  color: var(--pf-black);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  color: var(--pf-black);
+}
+
+/* Override the site theme's `* { color: $font-color }` */
+.pf-section, .pf-section *,
+.pf-footer, .pf-footer * {
+  color: var(--pf-black);
+}
+
+.pf-cta {
+  margin: 2rem 0 0.5rem 0;
+  padding: 1.5rem;
+  background: #ffffff;
+  border: 1px solid #cfccc2;
+  border-left: 6px solid var(--pf-gold);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.pf-cta-text {
+  margin: 0;
+  font-weight: 700;
+  flex: 1 1 260px;
+}
+
+.pf-section a.pf-cta-button {
+  display: inline-block;
+  background: var(--pf-gold);
+  color: var(--pf-black);
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.03em;
+  padding: 0.75rem 1.6rem;
+  border: 2px solid var(--pf-black);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.pf-section a.pf-cta-button:hover,
+.pf-section a.pf-cta-button:focus-visible {
+  background: var(--pf-black);
+  color: var(--pf-gold);
+}
+
+.pf-cta.pf-cta-top {
+  margin: 0 0 1rem 0;
+}

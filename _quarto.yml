@@ -21,6 +21,7 @@ website:
       - events.qmd
       - blog.qmd
       - contact.qmd
+      - 30DayMapChallenge2026.qmd
     right:
       - registration.qmd
   announcement: 
