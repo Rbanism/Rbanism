@@ -35,7 +35,7 @@ The **[#30DayMapChallenge](https://30daymapchallenge.com/)** was started in 2019
 
 The Rbanism twist: maps made entirely in R, published on our repo on GitHub (see previous editions [here](https://github.com/Rbanism/30DayMapChallenge2024/) and [here](https://github.com/Rbanism/30DayMapChallenge2025/)), alongside the code. We share the topics and work on the maps together. 
 
-It's a fun, low-pressure way to sharpen your spatial data and cartography skills, and your coding skills, no matter your experience level.
+It's a fun, low-pressure way to sharpen your spatial data, cartography, and coding skills, no matter your experience level.
 
 ## Why join?
 
