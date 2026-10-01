@@ -33,7 +33,7 @@ This November, join the **[Rbanism community](https://rbanism.org/)** for the th
 
 The **[#30DayMapChallenge](https://30daymapchallenge.com/)** was started in 2019 by Topi Tjukanov, a Finnish cartographer. It's a daily cartography and data visualization challenge aimed at the spatial community, where every day throughout November a different theme is set and participants create a map or visualization based on that theme and share it on social media using the hashtag. 
 
-The Rbanism twist: maps made entirely in R, published on our repo on GitHub (see previous editions [here](https://github.com/Rbanism/30DayMapChallenge2024/) and [here](https://github.com/Rbanism/30DayMapChallenge2025/)), alongside the code. We share the topics and work on the maps together. 
+The Rbanism twist: maps made entirely in R, published on our repo on GitHub (see the 2024 edition [here](https://github.com/Rbanism/30DayMapChallenge2024/) and the 2025 one [here](https://github.com/Rbanism/30DayMapChallenge2025/)), alongside the code. We share the topics and work on the maps together. 
 
 It's a fun, low-pressure way to sharpen your spatial data, cartography, and coding skills, no matter your experience level.
 
