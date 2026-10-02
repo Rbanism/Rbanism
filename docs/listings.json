@@ -29,6 +29,24 @@
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/listings/index/actions/improving_awareness/index.html",
+      "/listings/index/actions/stimulating_engagement/index.html",
+      "/listings/index/actions/building_capacity/index.html",
+      "/listings/index/benefits/reproducibility/index.html",
+      "/listings/index/benefits/automation/index.html",
+      "/listings/index/benefits/scalability/index.html",
+      "/listings/events/posts/261001_30DMC-2026/index.html",
+      "/listings/events/posts/230522_scalegis-workshop/index.html",
+      "/listings/events/posts/230403_repro-wrap-up/index.html",
+      "/listings/events/posts/230403_repro-challenge/index.html",
+      "/listings/events/posts/230403_repro-hack/index.html",
+      "/listings/events/posts/230403_repro-r-workshop/index.html",
+      "/listings/blog/posts/240815-libraries-and-packages/index.html",
+      "/listings/blog/posts/240402-r-vs-qgis/index.html",
+      "/listings/index/partners/tud/index.html",
+      "/listings/index/partners/oscd/index.html",
+      "/listings/index/partners/nlesc/index.html"
+    ]
   }
 ]
