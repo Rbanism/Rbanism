@@ -94,7 +94,7 @@ Berlagezaal 1 / Ms Teams (link will follow)
 | Time | Activity |
 |---|---|
 |13:00 | lunch 
-|13:30 | lecture Mark Pedgham
+|13:30 | lecture [Mark Padgham](https://ropensci.org/author/mark-padgham/)
 |14:30 | kick off #30DayMapChallenge
 |15:30 | break
 |16:00 | Urbex book club
