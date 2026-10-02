@@ -138,8 +138,9 @@ p, .p {
   max-height: $h2-font-size;
 }
 
-// Button
-#navbarCollapse > ul.navbar-nav.navbar-nav-scroll.ms-auto > li > a {
+// Button (Join the community, #30DayMapChallenge)
+#navbarCollapse > ul.navbar-nav.navbar-nav-scroll.ms-auto > li > a,
+.navbar .navbar-nav .nav-link[href$="30DMC2026.html"] {
   background-color: white;
   background-image: url("assets/icons/button/arrow_cl.svg");
   background-repeat: no-repeat;
@@ -155,11 +156,13 @@ p, .p {
   text-decoration: none;
 }
 
-#navbarCollapse > ul.navbar-nav.navbar-nav-scroll.ms-auto > li > a:link {
+#navbarCollapse > ul.navbar-nav.navbar-nav-scroll.ms-auto > li > a:link,
+.navbar .navbar-nav .nav-link[href$="30DMC2026.html"]:link {
   color: $plum;
 }
 
-#navbarCollapse > ul.navbar-nav.navbar-nav-scroll.ms-auto > li > a:hover {
+#navbarCollapse > ul.navbar-nav.navbar-nav-scroll.ms-auto > li > a:hover,
+.navbar .navbar-nav .nav-link[href$="30DMC2026.html"]:hover {
   border: 1px solid $orange;
   color: $orange;
 }
