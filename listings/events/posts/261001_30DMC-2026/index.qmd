@@ -11,7 +11,7 @@ This November, the Rbanism community takes part in the [#30DayMapChallenge](http
 
 The Rbanism twist: all maps are made in R and published together with their code on our GitHub (see the [2024](https://github.com/Rbanism/30DayMapChallenge2024/) and [2025](https://github.com/Rbanism/30DayMapChallenge2025/) editions). There is no need to do all 30 days. Pick one or two themes that speak to you.
 
-We kick off together on **October 23** at the Faculty of Architecture, TU Delft (Berlagezaal 1, also on MS Teams), with lunch, a lecture by Mark Pedgham, the challenge kick-off and the Urbex book club.
+We kick off together on **October 23** at the Faculty of Architecture, TU Delft (Berlagezaal 1, also on MS Teams), with lunch, a lecture by [Mark Padgham](https://ropensci.org/author/mark-padgham/), the challenge kick-off and the Urbex book club.
 
 ### > Links
 
