@@ -181,3 +181,120 @@ h1, h2, h3, h4, h5, h6 {
 .pf-cta.pf-cta-top {
   margin: 0 0 1rem 0;
 }
+
+/* Daily themes calendar (November 2026: Mon-first grid, the 1st is a Sunday) */
+.pf-cal {
+  --pf-cal-width: min(1040px, calc(100vw - 2rem));
+  width: var(--pf-cal-width);
+  margin: 1.5rem 0 0.5rem calc(50% - var(--pf-cal-width) / 2);
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.pf-cal-weekday {
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  padding: 0 0.2rem 0.3rem 0.2rem;
+  border-bottom: 3px solid var(--pf-gold);
+}
+
+.pf-cal-intro {
+  grid-column: 1 / span 6;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  padding: 0.8rem 0.4rem;
+}
+
+.pf-cal-month {
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  line-height: 1;
+}
+
+.pf-cal-day {
+  background: #ffffff;
+  border: 1px solid #cfccc2;
+  border-top: 4px solid var(--pf-black);
+  padding: 0.5rem 0.55rem 0.7rem 0.55rem;
+  min-height: 9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.pf-cal-day.is-weekend {
+  background: #f5f4f0;
+}
+
+.pf-cal-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+
+.pf-cal-num {
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  font-size: 1.6rem;
+  line-height: 1;
+}
+
+.pf-cal-wd {
+  display: none;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.pf-cal .pf-cal-theme {
+  font-family: var(--pf-heading-font);
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  line-height: 1.1;
+  margin: 0;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.pf-cal .pf-cal-desc {
+  font-size: 0.72rem;
+  line-height: 1.35;
+  margin: 0;
+}
+
+/* Tablets: the 7-column month is too tight, so lay the days out as cards */
+@media (max-width: 991.98px) {
+  .pf-cal {
+    width: auto;
+    margin-left: 0;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  }
+  .pf-cal-weekday { display: none; }
+  .pf-cal-intro { grid-column: 1 / -1; padding: 0 0 0.5rem 0; }
+  .pf-cal-month { font-size: 1.8rem; }
+  .pf-cal-day { min-height: 0; }
+  .pf-cal-wd { display: inline; }
+}
+
+/* Phones: tighter gutters and spacing */
+@media (max-width: 600px) {
+  .pf-hero { padding: 0; }
+  .pf-section { padding: 1.5rem 0; }
+  .pf-footer { padding: 1rem 0 2rem 0; }
+  .pf-section h2 { font-size: 1.25rem; }
+  .pf-cards { grid-template-columns: 1fr; gap: 0.8rem; }
+  .pf-cta { padding: 1.1rem; }
+  .pf-cal { grid-template-columns: 1fr; gap: 5px; }
+  .pf-cal-day { padding: 0.45rem 0.7rem 0.6rem 0.7rem; }
+  .pf-cal-num { font-size: 1.35rem; }
+}

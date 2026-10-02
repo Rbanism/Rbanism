@@ -13,7 +13,9 @@ project:
   
 website:
   title: "Rbanism"
+  favicon: assets/icons/favicon.png
   navbar:
+    collapse-below: xl
     logo: assets/icons/rbanism.png
     left:
       - about.qmd
@@ -21,7 +23,7 @@ website:
       - events.qmd
       - blog.qmd
       - contact.qmd
-      - 30DayMapChallenge2026.qmd
+      - 30DMC2026.qmd
     right:
       - registration.qmd
   announcement: 
